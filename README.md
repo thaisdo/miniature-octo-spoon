@@ -5,6 +5,13 @@ contatinhos project - pratica 02
 this repo is due to an pratice in ReactJs <img align="center" alt="Reactjs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
 
 
+## Primeira Rota
+![tela1](https://github.com/thaisdo/miniature-octo-spoon/blob/main/images/tela1.png)
+
+## Segunda Rota
+![tela2](https://github.com/thaisdo/miniature-octo-spoon/blob/main/images/tela2.png)
+
+
 ## <a name="Author"></a>Author :construction_worker:
 <table>
     <tr>
