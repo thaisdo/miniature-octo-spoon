@@ -9,14 +9,10 @@ export default function App() {
     <BrowserRouter>
       <Routes>
         <Route
-          path="/"
-          element={
-            <Layout>
-              <Route element={<Home />} />
-              <Route element={<Novo />} />
-            </Layout>
-          }
-        />
+          path="/" element={<Layout />}>
+              <Route index element={<Home />} />
+              <Route path='novo' element={<Novo />} />
+          </Route>
         <Route path="*" element={<Erro404 />} />
       </Routes>
     </BrowserRouter>
